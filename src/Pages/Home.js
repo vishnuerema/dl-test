@@ -18,7 +18,7 @@ var sectionStyle = {
 class Home extends Component {
 
   scroll = e => {
-    console.log('ggg');
+    console('ggg');
   }
 
   render () {
